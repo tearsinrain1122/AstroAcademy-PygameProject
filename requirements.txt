@@ -1,0 +1,7 @@
+pygame
+mysql-connector-python
+random
+itertools
+unittest
+abc
+pygame.locals
