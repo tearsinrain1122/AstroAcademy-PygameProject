@@ -1,0 +1,2 @@
+![alt text](<collision_tests/print statement for hit - when the astronaut hits an asteroid - then ending when 0.png>)![alt text](collision_tests/collision_terminal.png)
+![alt text](collision_tests/Collisions.png)![alt text](collision_tests/collisions1.png)
